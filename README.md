@@ -23,6 +23,6 @@ EN : How to used : EMU_TOOLS
 Thank for use my Tool
 
 Lasted Update {..}
+* Fix Crash
 + Improve Close All Error Code
-+ Improve Close Home Srceen w timer (can config time in configs.json)
-* Fix Crash 
++ Improve Close Home Srceen w timer (can config time in configs.json) 
