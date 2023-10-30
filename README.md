@@ -14,14 +14,15 @@ TH : วิธีใช้งาน : EMU_TOOLS
 
 EN : How to used : EMU_TOOLS
 
-# Enabel Adb | other settings > Adb debug > Open local | All Devices
-# Copy All File In Folder Emu_tools move to Adb Folder or Ldplayer9 Folder
-# Edit Place id In Configs.json
-# Pls Report Bug
-# Warning Bug
+- Enabel Adb | other settings > Adb debug > Open local | All Devices
+- Copy All File In Folder Emu_tools move to Adb Folder or Ldplayer9 Folder
+- Edit Place id In Configs.json
+- Pls Report Bug
+- Warning Bug
 
 Thank for use my Tool
 
 Lasted Update {..}
-+ Close All Error Code
-+ Close Home Srceen w timer (can config time in configs.json)
++ Improve Close All Error Code
++ Improve Close Home Srceen w timer (can config time in configs.json)
+* Fix Crash 
